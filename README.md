@@ -64,6 +64,6 @@ monitoring, logging, backup and all the hygiene type infra services will be incl
 how to secure your infrastructure and deployment will be documented here.
 
 
-## Open source
+## open source
 
 the bulk of the content will be public but to protect commercial interests (we are using Github to manage supplier delivery)  and where we think the material is not yet ready to be shared out, we may have to restrict access.
