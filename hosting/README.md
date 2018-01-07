@@ -10,4 +10,4 @@
 ### account management
 
 - ![how to open an account](./aws-how-to-open-account.md)
-
+- ![Reserved Instances ](./RIs.md)
