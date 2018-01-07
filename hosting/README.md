@@ -11,3 +11,4 @@
 
 - ![how to open an account](./aws-how-to-open-account.md)
 
+- ![RIs](./RIs.md)
