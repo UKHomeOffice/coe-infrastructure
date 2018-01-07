@@ -94,6 +94,32 @@ AWS pages describe RIs in details and there is very little point of re-writing r
 
 ### what do i have to do
 
+- Once you have calculated your compute requirements, get in touch with [to be published] in AWS who will advice you on your optimum RIs options
+- Get in touch with CoE for advice and information. At the same time, if you think the advice given here is out of date or incorrect, please either inform the CoE or submit a PR
+- Email or book slot with the TSG to validated RIs procurement and to share with others selected
+- Build your VPCs
+- Prove at the digital assessment session that you have adopted and applied the in-house RIs appraoch
+- If your requirements change make sure your off-load what you are not using
+
+### support
+
+Using RIs is not difficult but to speed things up, achieve  internal consistency and insure savings are applied across the board, you are strongly advice make use the following  internal resource
+
+  - CoE direct advice
+  - AWS user group forum
+  - HO AWS account team
+  - Peer advice  
+
+### Governance
+
+All portfolios are expected to secure the following aprovals
+
+- secure TDA and TSG approvals prior to build
+-
+
+
+
+---
 
 ### can I contribute to standards?
 
