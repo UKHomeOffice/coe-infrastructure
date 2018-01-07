@@ -8,7 +8,8 @@
 # Reserved Instances (RIs )
 
 ```diff
-- Disclaimer :  views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author's employer, organization, committee or other group or individual. 
+- Disclaimer :  
+-  views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author's employer, organization, committee or other group or individual. 
 ```
 
 ### What is this?
@@ -104,6 +105,12 @@ AWS pages describe RIs in details and there is very little point of re-writing r
 - Build your VPCs
 - Prove at the digital assessment sessions that you have adopted and applied the in-house RIs approach
 - If your requirements change, make sure you off-load what you are not using
+
+### How do I know that this guidance is sound?
+
+- Guidance is based on the practical IPT implementation 
+- Home Office AWS account team validated the content 
+- CoE working with CDP applied advice given and .....
 
 ### support
 
