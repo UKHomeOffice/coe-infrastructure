@@ -5,13 +5,17 @@
 
 ![go back to table of content](./README.md)
 
-# RIs
+# Reserved Instances (RIs )
+
+```diff
+- Disclaimer :  views, thoughts, and opinions expressed in the text belong solely to the author, and not necessarily to the author's employer, organization, committee or other group or individual. 
+```
 
 ### What is this?
 
-A CoE guidance on the use Of RIs. All AWS account owners will be expected to drive cost down and consider RIs as a default starting position.
+A Home Office Centre OF Excellence (CoE) guidance on the use Of AWS RIs. All AWS account owners will be expected to drive cost down and consider RIs as a default starting position.
 
-The guidance will help you to better understand and apply in-house approach.
+The guidance will help you to understand and apply in-house approach.
 
 Three areas are covered
 
@@ -23,32 +27,34 @@ Three areas are covered
 
  Portfolio Devops.
 
-### Who is involved ?
+### Who is involved?
 
 this guidance is developed, updated, validated and sponsored by the following people  
 
 | Who | Role  |
 | ------ | ------ |
 | Matt | owns the AWS relationship  |
-| Abdul | develops, maintains htis guidance and provides support |
+| Abdul | develops, maintains this guidance and provides support |
 | James and Graham| QA project RIs implementations through the TDA and TSG  |
 | Projects | Responsible for implementing this guidance. |
-| Duncan | Lead Cloud Engineer responsible for ... |
+| Duncan | Lead Cloud Engineer |
 
 
 
-### when should i consider RIs?
+### when should I consider RIs?
 
-- if utilisation is not predicable use Amazon EC2 On Demand   
-- for other workloads where you maybe able to predict work load, you should consider  Amazon EC2 reserved instances
+- if utilisation is not predictable, use Amazon EC2 On-Demand   
+- for other workloads where you are able to predict workloads, you should consider  Amazon EC2 reserved instances
 
 
 
 ### How does it work?
 
-AWS pages describe RIs in details and there is very little point of re-writing readily available text. However, in the interest of speed and assuming that you are comfortable with AWS well architected framework, this section is just a quick reminder of main points
+AWS pages describe RIs in details and there is very little point of re-writing readily available text. However, in the interest of speed and assuming that you are comfortable with AWS well-architected framework, this section is just a quick reminder of main points
 
 - RIs allow you to make capacity reservations for predictable workloads
+
+- RIs are billing concept that allows receiving discounts on On-Demand cost if your instance matches certain conditions 
 
 - RIs pricing is calculated using three key variables
 
@@ -77,11 +83,10 @@ AWS pages describe RIs in details and there is very little point of re-writing r
 
 -  RIs pricing is  that determined by
 
-  - commitment term : either one year or 3 year
+  - commitment term : either one or 3 year
   - payment schedule :
-
-      - upfront payment and monthly instalments
-      - upfront partial payment  and reminder to be paid by instalments
+      - upfront payment and monthly installments
+      - upfront partial payment  and reminder to be paid by installments
       - or pay nothing upfront  
 
 
@@ -91,19 +96,18 @@ AWS pages describe RIs in details and there is very little point of re-writing r
 
 - if you no longer need your RIs,  you can become a third party seller and sell it on the reserved instance Marketplace
 
+### As a Devop, what is expected from me?
 
-### what do i have to do
-
-- Once you have calculated your compute requirements, get in touch with [to be published] in AWS who will advice you on your optimum RIs options
-- Get in touch with CoE for advice and information. At the same time, if you think the advice given here is out of date or incorrect, please either inform the CoE or submit a PR
+- Once you have calculated your compute requirements, get in touch with [to be published] in AWS who will advise you on your optimum RIs options
+- Approach with CoE for advice and information. At the same time, if you think the advice given here is out of date or incorrect, please either inform the CoE or submit a PR
 - Email or book slot with the TSG to validated RIs procurement and to share with others selected
 - Build your VPCs
-- Prove at the digital assessment session that you have adopted and applied the in-house RIs appraoch
-- If your requirements change make sure your off-load what you are not using
+- Prove at the digital assessment sessions that you have adopted and applied the in-house RIs approach
+- If your requirements change, make sure you off-load what you are not using
 
 ### support
 
-Using RIs is not difficult but to speed things up, achieve  internal consistency and insure savings are applied across the board, you are strongly advice make use the following  internal resource
+Using RIs is not difficult but to speed things up, achieve  internal consistency and ensure savings are applied across the board, you are strongly advice make use the following  internal resource
 
   - CoE direct advice
   - AWS user group forum
@@ -112,11 +116,11 @@ Using RIs is not difficult but to speed things up, achieve  internal consistency
 
 ### Governance
 
-All portfolios are expected to secure the following aprovals
+All portfolios are expected to secure the following approvals
 
-- secure TDA and TSG approvals prior to build
--
-
+- TDA and TSG approvals before build
+-  Matt's RIs management monthly sign-off
+-  Digital assessment value for money test
 
 
 ---
