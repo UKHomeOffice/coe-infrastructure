@@ -82,7 +82,7 @@ AWS pages describe RIs in details (see this https://aws.amazon.com/ec2/pricing/r
 
 - AWS will automatically give you  the discounted reserved instance rate anytime that you're running instance with RI attributes
 
--  RIs pricing is  that determined by
+-  RIs pricing is determined by
 
   - commitment term: either one or 3 year
   - payment schedule :
