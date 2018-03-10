@@ -50,9 +50,7 @@ Assuming you are ready,  here is the sequence of what you need to do
 
 - 	through thier consol access, users will be able to set-up 2FA and generate access keys  
 
-## what else?
- 
-we will issue a detailed video to take you step by step through the account creation process
+
 
 
 
